@@ -1,0 +1,1 @@
+transaction_id,provider,account,trade_date,settlement_date,event_type,description,isin,ticker,quantity,currency,unit_price,gross_amount,fees,withholding,cash_effect,fx_gbp_per_unit,gbp_gross,gbp_fees,gbp_withholding,evidence_ids,review_status,notes

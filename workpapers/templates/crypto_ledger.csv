@@ -1,0 +1,1 @@
+transaction_id,platform,wallet,date,time,event_type,asset_disposed,quantity_disposed,asset_received,quantity_received,fiat_currency,fiat_value,fee_asset,fee_quantity,gbp_value,gbp_fee,own_wallet_transfer,evidence_ids,review_status,notes
